@@ -11,6 +11,8 @@ A professional web application that lets you upload CSV/Excel files and ask ques
 - 🎨 Clean, modern UI
 - 🚀 Free deployment on Streamlit Cloud
 
+## Getting Started
+
 ### Prerequisites
 
 - Python 3.8 or higher
