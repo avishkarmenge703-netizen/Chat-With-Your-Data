@@ -58,7 +58,7 @@ with st.sidebar:
     api_key = st.text_input(
         "OpenAI API Key",
         type="password",
-        value=os.getenv("OPENAI_API_KEY", ""),
+        value=os.getenv("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", ""),
         help="Enter your OpenAI API key. It will not be stored."
     )
 
